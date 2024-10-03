@@ -32,3 +32,4 @@ If you have any questions about the project, please contact me at [brandonwillis
 
 ## Links 
 Repo: https://github.com/brandon6ix/Employee-Tracker-12/tree/main
+Video: https://youtu.be/tSj8iWx9ByE
